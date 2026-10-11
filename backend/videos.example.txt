@@ -1,0 +1,7 @@
+# Exactly 5 distinct YouTube videos (ID or full URL), one per line.
+# Copy this file to videos.txt and edit.
+https://www.youtube.com/watch?v=XXXXXXXXXXX
+https://www.youtube.com/watch?v=XXXXXXXXXXX
+https://www.youtube.com/watch?v=XXXXXXXXXXX
+https://www.youtube.com/watch?v=XXXXXXXXXXX
+https://www.youtube.com/watch?v=XXXXXXXXXXX

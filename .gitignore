@@ -1,0 +1,7 @@
+backend/.venv/
+backend/.env
+backend/videos.txt
+backend/comments_raw.json
+backend/dataset_results.json
+__pycache__/
+*.pyc
